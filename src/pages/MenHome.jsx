@@ -14,7 +14,7 @@ const MenHome = () => {
       <Navbar3 />
       <div>
         <video width="100%" height="100%" controls loop>
-          <source src="src\assets\MEN.mp4" type="video/mp4" />
+          <source src="src/assets/MEN.mp4" type="video/mp4" />
         </video>
         <center className="display-image">
           <Link to="/product">
