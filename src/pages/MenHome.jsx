@@ -14,12 +14,12 @@ const MenHome = () => {
       <Navbar3 />
       <div>
         <video width="100%" height="100%" controls loop>
-          <source src="src\assets\MEN.webm" type="video/mp4" />
+          <source src="src\assets\MEN.mp4" type="video/mp4" />
         </video>
         <center className="display-image">
           <Link to="/product">
             <div>
-              <img src="src\assets\mw_global_new_in_today_moment_870x1110.avif" />
+              <img src="src\assets\mw_global_new_in_today_moment_870x1110.jpg" />
               <h4> NEW IN TODAY </h4>
               <p> Super-fresh finds </p>
             </div>
@@ -27,7 +27,7 @@ const MenHome = () => {
 
           <Link to="/product">
             <div>
-              <img src="src\assets\mw_global_terrace_shoes_moment_870x1110.avif" />
+              <img src="src\assets\mw_global_terrace_shoes_moment_870x1110.jpg" />
               <h4> TERRACE TRAINERS </h4>
               <p> The OG ballers </p>
             </div>
@@ -35,7 +35,7 @@ const MenHome = () => {
 
           <Link to="/product">
             <div>
-              <img src="src\assets\mw_global_relaxed_tailoring_moment_870x1110.avif" />
+              <img src="src\assets\mw_global_relaxed_tailoring_moment_870x1110.jpg" />
               <h4> COTTON:ON </h4>
               <p> New-season staples </p>
             </div>
@@ -43,7 +43,7 @@ const MenHome = () => {
 
           <Link to="/product">
             <div>
-              <img src="src\assets\mw_global_cotton_on_moment_870x1110.avif" />
+              <img src="src\assets\mw_global_cotton_on_moment_870x1110.jpg" />
               <h4> RELAXED TAILORING </h4>
               <p> ft. Bershka + ASOS DESIGN </p>
             </div>
@@ -52,7 +52,7 @@ const MenHome = () => {
 
         <center className="Poster-image">
           <div>
-            <img src="src\assets\l.png" />
+            <img src="src\assets\l.jpg" />
             <h1> TOPSHOP </h1>
             <h4> Top-Tier threads </h4>
             <Link to="/product">

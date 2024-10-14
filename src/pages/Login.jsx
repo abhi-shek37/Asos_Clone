@@ -8,7 +8,7 @@ const Login = () => {
     <>
       <div className="logo">
         <img
-          src="https://my.asos.com/Content/images/asos-logo-2022-93x28.png"
+          src="https://my.asos.com/Content/images/asos-logo-2022-93x28.jpg"
           alt="logo"
         />
       </div>

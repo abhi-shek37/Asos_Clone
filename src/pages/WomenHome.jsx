@@ -6,12 +6,12 @@ const WomenHome = () => {
   return (
     <div>
       <video width="100%" height="100%" controls loop>
-        <source src="src\assets\WOMEN.webm" type="video/mp4" />
+        <source src="src\assets\WOMEN.mp4" type="video/mp4" />
       </video>
       <center className="display-image">
         <Link to="/product">
           <div>
-            <img src="src\assets\ww_gbl_knitwear_moment_870x1110.avif" />
+            <img src="src\assets\ww_gbl_knitwear_moment_870x1110.jpg" />
             <h4> KNITWEAR </h4>
             <p> New Drops from huge brands </p>
           </div>
@@ -19,7 +19,7 @@ const WomenHome = () => {
 
         <Link to="/product">
           <div>
-            <img src="src\assets\ww_global_inkey_list_moment_870x1110.avif" />
+            <img src="src\assets\ww_global_inkey_list_moment_870x1110.jpg" />
             <h4> GORPCORE GEAR </h4>
             <p> All-weather streatwear </p>
           </div>
@@ -27,7 +27,7 @@ const WomenHome = () => {
 
         <Link to="/product">
           <div>
-            <img src="src\assets\ww_global_natural_wakening_moment_870x1110.avif" />
+            <img src="src\assets\ww_global_natural_wakening_moment_870x1110.jpg" />
             <h4> NEW: THE INKEY LIST </h4>
             <p> Plumping lip balms in new shades</p>
           </div>
@@ -35,7 +35,7 @@ const WomenHome = () => {
 
         <Link to="/product">
           <div>
-            <img src="src\assets\ww_global_new_szn_fits_moment_870x1110.avif" />
+            <img src="src\assets\ww_global_new_szn_fits_moment_870x1110.jpg" />
             <h4> NEW-SEASON DROPS </h4>
             <p> The freshest fits </p>
           </div>
