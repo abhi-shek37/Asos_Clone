@@ -1,0 +1,107 @@
+
+.register-form{
+    margin: auto;
+    max-width: 360px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+form>* {
+    margin: 15px 0 0 0;
+}
+
+form label{
+    font-weight: 500;
+}
+
+form p {
+    font-weight: 300;
+}
+
+.login{
+    font-weight: 500;
+}
+
+center>* {
+    margin: 40px 0;
+}
+
+.login-btn {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 0 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+/* .btn-row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+
+.login-btn svg {
+    margin-right: 20px;
+    font-size: 24px;
+}
+
+.register-box {
+    width: 650px;
+    box-shadow: rgba(22, 22, 22, 0.16) 0px 1px 4px;
+    margin: 50px auto;
+    padding: 23px;
+}
+
+.logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.change-btn{
+    display: flex;
+    justify-content: center;
+    gap: 2px;
+    padding: auto;
+}
+
+.change-btn>*{
+    width: 325px;
+    border: none;
+    font-weight: 600;
+    background-color: white;
+}
+
+
+.btn-row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    /* Add some space between buttons */
+}
+
+.login-btn {
+    width: 100%;
+    /* Full width on smaller screens */
+    max-width: 300px;
+    /* Prevent buttons from becoming too wide */
+    margin-bottom: 10px;
+    /* Space between stacked buttons */
+}
+
+@media (min-width: 768px) {
+    .login-btn {
+        width: auto;
+        /* Buttons will take their content width on larger screens */
+        margin-bottom: 0;
+    }
+}
+
+
