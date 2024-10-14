@@ -11,7 +11,7 @@ const WomenHome = () => {
       <center className="display-image">
         <Link to="/product">
           <div>
-            <img src="src\assets\ww_gbl_knitwear_moment_870x1110.jpg" />
+            <img src="https://content.asos-media.com/-/media/homepages/ww/2024/october/14-gbl/cat-tray-moments/ww_global_new_in_moment_870x1110.jpg" />
             <h4> KNITWEAR </h4>
             <p> New Drops from huge brands </p>
           </div>
@@ -19,7 +19,7 @@ const WomenHome = () => {
 
         <Link to="/product">
           <div>
-            <img src="src\assets\ww_global_inkey_list_moment_870x1110.jpg" />
+            <img src="https://content.asos-media.com/-/media/homepages/ww/2024/october/14-gbl/cat-tray-moments/ww_global_partygirl_moment_870x1110.jpg" />
             <h4> GORPCORE GEAR </h4>
             <p> All-weather streatwear </p>
           </div>
@@ -27,7 +27,7 @@ const WomenHome = () => {
 
         <Link to="/product">
           <div>
-            <img src="src\assets\ww_global_natural_wakening_moment_870x1110.jpg" />
+            <img src="https://content.asos-media.com/-/media/homepages/ww/2024/october/14-gbl/cat-tray-moments/ww_global_new_in_moment_870x1110.jpg" />
             <h4> NEW: THE INKEY LIST </h4>
             <p> Plumping lip balms in new shades</p>
           </div>
@@ -35,7 +35,7 @@ const WomenHome = () => {
 
         <Link to="/product">
           <div>
-            <img src="src\assets\ww_global_new_szn_fits_moment_870x1110.jpg" />
+            <img src="https://content.asos-media.com/-/media/homepages/ww/2024/october/14-gbl/cat-tray-moments/ww_global_partygirl_moment_870x1110.jpg" />
             <h4> NEW-SEASON DROPS </h4>
             <p> The freshest fits </p>
           </div>
@@ -44,7 +44,7 @@ const WomenHome = () => {
 
       <center className="Poster-image">
         <div>
-          <img src="src\assets\d.jpg" />
+          <img src="https://images.asos-media.com/products/topshop-faux-fur-zip-through-short-coat-with-funnel-neck-in-tipped-white/206148659-2?$n_480w$&wid=476&fit=constrain" />
           <h1> TOPSHOP </h1>
           <h4> Your autum go-to </h4>
           <Link to="/product">
@@ -55,7 +55,7 @@ const WomenHome = () => {
         </div>
 
         <div>
-          <img src="src\assets\e.jpg" />
+          <img src="https://images.asos-media.com/products/topshop-faux-fur-zip-through-short-coat-with-funnel-neck-in-tipped-white/206148659-2?$n_480w$&wid=476&fit=constrain" />
           <h1> ROMANTIC ERA </h1>
           <h4> Ruffle details, incoming </h4>
           <Link to="/product">

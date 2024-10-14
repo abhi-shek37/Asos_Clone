@@ -19,7 +19,7 @@ const MenHome = () => {
         <center className="display-image">
           <Link to="/product">
             <div>
-              <img src="src\assets\mw_global_new_in_today_moment_870x1110.jpg" />
+              <img src="https://content.asos-media.com/-/media/homepages/mw/2024/october/14-gbl-excl-uk-us-de-fr/mw_global_new_in_moment_870x1110.jpg" />
               <h4> NEW IN TODAY </h4>
               <p> Super-fresh finds </p>
             </div>
@@ -27,7 +27,7 @@ const MenHome = () => {
 
           <Link to="/product">
             <div>
-              <img src="src\assets\mw_global_terrace_shoes_moment_870x1110.jpg" />
+              <img src="https://content.asos-media.com/-/media/homepages/mw/2024/october/14-gbl-excl-uk-us-de-fr/mw_global_asos_design_premium_moment_870x1110.jpg" />
               <h4> TERRACE TRAINERS </h4>
               <p> The OG ballers </p>
             </div>
@@ -35,7 +35,7 @@ const MenHome = () => {
 
           <Link to="/product">
             <div>
-              <img src="src\assets\mw_global_relaxed_tailoring_moment_870x1110.jpg" />
+              <img src="https://content.asos-media.com/-/media/homepages/mw/2024/october/14-gbl-excl-uk-us-de-fr/mw_global_carhartt_moment_870x1110.jpg" />
               <h4> COTTON:ON </h4>
               <p> New-season staples </p>
             </div>
@@ -43,7 +43,7 @@ const MenHome = () => {
 
           <Link to="/product">
             <div>
-              <img src="src\assets\mw_global_cotton_on_moment_870x1110.jpg" />
+              <img src="https://images.asos-media.com/products/topman-relaxed-fit-brushed-collared-cardigan-in-brown-marl/206556691-2?$n_480w$&wid=476&fit=constrain" />
               <h4> RELAXED TAILORING </h4>
               <p> ft. Bershka + ASOS DESIGN </p>
             </div>
@@ -52,7 +52,7 @@ const MenHome = () => {
 
         <center className="Poster-image">
           <div>
-            <img src="src\assets\l.jpg" />
+            <img src="https://images.asos-media.com/products/topman-oversized-fit-full-zip-hoodie-in-black/206241033-1-black?$n_750w$&wid=750&fit=constrain" />
             <h1> TOPSHOP </h1>
             <h4> Top-Tier threads </h4>
             <Link to="/product">
@@ -63,7 +63,7 @@ const MenHome = () => {
           </div>
 
           <div>
-            <img src="src\assets\m.jpg" />
+            <img src="https://images.asos-media.com/products/topman-oversized-fit-full-zip-hoodie-in-black/206241033-1-black?$n_750w$&wid=750&fit=constrain" />
             <h1> SWIM ESSENTIALS </h1>
             <h4> Everything's just beachy </h4>
             <Link to="/product">
