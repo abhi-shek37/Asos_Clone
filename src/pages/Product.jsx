@@ -16,12 +16,15 @@ const Product = () => {
 
   useEffect(() => {
     const fetchData = async () => {
-      const response = await fetch("https://fakestoreapi.com/products", {
-        method: "GET",
-        headers: {
-          "Content-Type": "application/json",
-        },
-      });
+      const response = await fetch(
+        "https://asos-backend-riht.onrender.com/menu/getPost",
+        {
+          method: "GET",
+          headers: {
+            "Content-Type": "application/json",
+          },
+        }
+      );
       const fetchedData = await response.json();
       if (response.ok) {
         setData(fetchedData);
